@@ -1,3 +1,7 @@
+---
+layout: post
+title: 
+---
 Today was the final day of our four-week long precourse and it's been a very steep learning curve so far.  Now we are prepared to go through our 12-week preparation at Makers Academy to become ace coders with all the hot skills new tech wants.
 
 But the pre-preparation didn't begin here.
