@@ -2,9 +2,11 @@
 layout: post
 title: Pre-Course
 ---
-Today was the final day of our four-week long precourse and it's been a very steep learning curve so far.  Now we are prepared to go through our 12-week preparation at Makers Academy to become ace coders with all the hot skills new tech wants.
-
-But the pre-preparation didn't begin here.
+Today was the final day of our four-week long precourse and it's been a very steep learning curve so far.  Now we are prepared to go through our 12-week preparation at Makers Academy to become ace coders with all the hot skills new tech wants.  But the pre-preparation didn't begin here.
+{% highlight ruby linenos %}
+puts "Hello, World!"
+puts "How original..."
+{% endhighlight %}
 
 Before we got accepted on the course we had to learn some basic coding and attend an interview that consisted of an informal one-to-one and some pair programming to test what we had learned so far.  I thought I failed miserably on the coding part, only knowing the answers to a few of the dozen or so challenges put before us.  But as it turns out knowing the answers isn't what's important, it the willingness to communicate, ability to find the answers and acceptance that we won't ever know all the answers.
 
