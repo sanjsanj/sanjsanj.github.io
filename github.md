@@ -1,4 +1,4 @@
 ---
 layout: page
 redirect_to:
-  - https://github.com/sanjsanj
+  - http://github.com/sanjsanj
