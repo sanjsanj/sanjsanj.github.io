@@ -75,6 +75,6 @@ exclude:
     - README.md
 
 # per_page: 2
-paginate: 2
+# paginate: 2
 
 excerpt_separator: <!--more-->
